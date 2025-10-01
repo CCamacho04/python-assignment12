@@ -1,0 +1,13 @@
+Reflect on the differences between static and interactive visualizations.
+Static visualizations are quick and easy to make, but you can't interact with them.
+Interactive visiualizations let you zoom, hover, and explore the data, which helps you get a 
+better understanding of it.
+
+Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+Dashboards let you explore data in real-time using dropdown and charts. It also allows you to make
+better and quicker decisions. They provide a more dynamic way of viewing and interacting with data
+most relevant to them.
+
+Explain how interactive tools like Plotly and Dash can improve data communication in professional settings.
+They make it easier to share complex data so you can better understand and explore. In addition,
+it allows you to explore and find insight and explain the meaning of the data.
